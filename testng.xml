@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/india/IdeaProjects/Assignments">
+        <classes>
+            <class name="vinodkumar.HtmlTable"/>
+            <class name="vinodkumar.IFrameDate"/>
+            <class name="vinodkumar.FizzBuzzTest"/>
+            <class name="vinodkumar.RandomDate"/>
+            <class name="vinodkumar.StringSort"/>
+            <class name="vinodkumar.WorkingDayOrHoliDay"/>
+            <class name="vinodkumar.RandomWeekDay"/>
+        </classes>
+    </test>
+</suite>
